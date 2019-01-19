@@ -1,7 +1,4 @@
-# courseweb
-
-> A Vue.js project
-
+# RBSFront-dev 讨论课管理系统前端(vue+js)
 ## Build Setup
 
 ``` bash
